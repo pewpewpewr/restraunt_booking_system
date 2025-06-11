@@ -106,7 +106,7 @@ client
 
 ## **Backend**
 - Clone this repo 
-```https://github.com/luisgcenci/restaurant-booking-system.git```
+```https://github.com/pewpewpewr/restraunt_booking_system```
 - Install Dependencies
     ```
     cd backend/
@@ -140,7 +140,7 @@ client
 
 ## **Frontend**
 - Clone this repo 
-```https://github.com/luisgcenci/restaurant-booking-system.git```
+```https://github.com/pewpewpewr/restraunt_booking_system```
 - Install Dependencies
     ```
     cd client/
